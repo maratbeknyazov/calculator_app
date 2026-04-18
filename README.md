@@ -10,7 +10,7 @@ A simple, lightweight, and efficient **Calculator** built with Flutter. This pro
 
 | Dark Mode | Operations | Results |
 | :---: | :---: | :---: |
-| ![Main Screen](./Screenshot.png) | ![Math](./Screenshot1.png) | ![Calculation](./Screenshot2.png) |
+| <img src="Screenshot.png" width="250"> | ![Math](./Screenshot1.png) | ![Calculation](./Screenshot2.png) |
 
 ---
 
